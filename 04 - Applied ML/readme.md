@@ -1,6 +1,7 @@
 # Homework 4
 ## Table of Contents:
 
+
 1. Exploratory Data Analysis and Feature Selection
  * Data Cleaning and Pre-processing
  * Calculating Average Rating
