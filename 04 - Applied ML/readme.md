@@ -3,6 +3,7 @@
 
 1. Exploratory Data and Feature Selection
  * Data Cleaning and Pre-processing
+ * Calculating Average Rating
  * Aggregating player-referee information by player
  * Encoding Categorical to Numerical Values
 
