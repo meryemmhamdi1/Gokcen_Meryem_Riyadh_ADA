@@ -8,7 +8,7 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.stem.wordnet import WordNetLemmatizer
 
 def replace_contractions(emails):
-    f = io.open('/media/diskD/EPFL/Fall 2016/ADA/Homework/Gokcen_Meryem_Riyadh_ADA/05 - Taming Text/IntermediateData/contractions.txt', 'r', encoding='utf8')
+    f = io.open('IntermediateData/contractions.txt', 'r', encoding='utf8')
     text = f.read()
     contractions = eval(text)
     keys = list(contractions.keys())
@@ -34,7 +34,7 @@ def bag_of_word_representation(emails):
     tokenizer = RegexpTokenizer(r'\w+')
     for email in emails['ExtractedBodyText']:
         # Tokenization and convert to lower case
-        emails_filtered = [t.lower() for t in tokenizer.tokenize(email)]
+        emails_filtered = [t.lower() for t in tokenizer.tokenize(str(email))]
         emails_bag_words.append(emails_filtered)
     return emails_bag_words
 
