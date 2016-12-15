@@ -1,0 +1,206 @@
+Country,Emotion,Country,Frequency
+afghanistan,0.249200987654,afghanistan,122
+albania,-0.135066497462,albania,94
+algeria,0.487625,algeria,3
+american samoa,-0.4328125,american samoa,5
+andorra,0.652390769231,andorra,30
+angola,0.629775,angola,10
+anguilla,0.4886,anguilla,5
+antarctica,0.486369565217,antarctica,7
+antigua and barbuda,0.8689,antigua and barbuda,1
+argentina,0.591942857143,argentina,13
+armenia,0.479765517241,armenia,27
+australia,0.652898245614,australia,24
+austria,-0.3538,austria,5
+azerbaijan,0.822655,azerbaijan,11
+bahamas,0.99365,bahamas,2
+bahrain,0.2552,bahrain,3
+bangladesh,0.181733333333,bangladesh,6
+barbados,0.337954545455,barbados,11
+belarus,0.34,belarus,1
+belgium,-0.14965,belgium,6
+bermuda,0.1672,bermuda,5
+bhutan,0.7149,bhutan,2
+bolivia,0.493314285714,bolivia,6
+bosnia and herzegovina,0.9451,bosnia and herzegovina,2
+brazil,0.593133333333,brazil,28
+britain,0.369663783784,britain,68
+british indian ocean territory,-0.00825,british indian ocean territory,2
+brunei darussalam,0.1001,brunei darussalam,6
+burundi,0.408308333333,burundi,10
+cabo verde,0.1795,cabo verde,5
+cambodia,0.49885,cambodia,2
+cameroon,0.521338461538,cameroon,8
+canada,0.23509,canada,16
+cayman islands,0.997333333333,cayman islands,2
+central african republic,0.9951,central african republic,1
+chad,0.007125,chad,3
+chile,0.334757142857,chile,12
+china,0.410598369565,china,92
+cocos (keeling) islands,0.485744444444,cocos (keeling) islands,35
+colombia,0.438756462585,colombia,93
+comoros,0.7096,comoros,1
+congo,0.282261538462,congo,21
+"congo, the democratic republic of the",0.685916666667,"congo, the democratic republic of the",9
+cook islands,0.536566666667,cook islands,3
+costa rica,0.74490625,costa rica,11
+croatia,-0.3084,croatia,3
+cuba,0.397628,cuba,20
+cyprus,0.356483333333,cyprus,6
+czechia,0.9938,czechia,1
+côte d'ivoire,0.49865,côte d'ivoire,4
+denmark,0.934361538462,denmark,6
+dominica,0.0,dominica,1
+dominican republic,0.458823045267,dominican republic,188
+ecuador,0.697584615385,ecuador,9
+egypt,0.324447540984,egypt,34
+eritrea,0.898514285714,eritrea,7
+estonia,0.0,estonia,1
+ethiopia,0.456795833333,ethiopia,18
+faroe islands,-0.0068,faroe islands,2
+finland,-0.0323333333333,finland,3
+france,-0.206883333333,france,32
+french guiana,0.5719,french guiana,1
+french polynesia,0.9969,french polynesia,1
+french southern territories,0.9413,french southern territories,1
+gabon,0.59495,gabon,7
+gambia,0.362125,gambia,4
+georgia,0.911885714286,georgia,10
+germany,0.307878947368,germany,30
+ghana,0.3835,ghana,3
+gibraltar,0.0203125,gibraltar,8
+greece,-0.11567826087,greece,10
+greenland,0.5406,greenland,2
+guam,0.37555,guam,3
+guatemala,0.344185714286,guatemala,6
+guinea,0.18964,guinea,5
+guinea-bissau,0.0,guinea-bissau,1
+guyana,0.9485,guyana,1
+haiti,0.516752868852,haiti,81
+holy see (vatican city state),0.284885714286,holy see (vatican city state),8
+honduras,0.186905882353,honduras,27
+hong kong,0.7964,hong kong,1
+hungary,0.591276923077,hungary,7
+iceland,0.33125,iceland,5
+india,0.55350979021,india,60
+indonesia,0.659242424242,indonesia,35
+iran,0.189060650888,iran,110
+iraq,0.0392045454545,iraq,71
+ireland,0.740576271186,ireland,37
+isle of man,0.5056,isle of man,13
+israel,0.460757350272,israel,95
+italy,0.09044,italy,11
+jamaica,0.4583,jamaica,35
+japan,0.45371,japan,24
+jersey,0.63849,jersey,10
+jordan,0.228025,jordan,24
+kazakhstan,0.506566666667,kazakhstan,3
+kenya,0.7954,kenya,8
+kiribati,-0.2174,kiribati,5
+kuwait,0.0532714285714,kuwait,7
+kyrgyzstan,0.8901,kyrgyzstan,2
+lao people's democratic republic,0.358066666667,lao people's democratic republic,12
+latvia,-0.9893,latvia,1
+lebanon,0.41972,lebanon,8
+lesotho,0.0,lesotho,1
+liberia,0.466671428571,liberia,5
+libya,0.321330285714,libya,60
+liechtenstein,0.998585714286,liechtenstein,4
+lithuania,0.4515,lithuania,19
+luxembourg,0.58486,luxembourg,4
+macao,0.0841333333333,macao,8
+macedonia,0.9763,macedonia,2
+madagascar,-0.0778,madagascar,3
+malawi,0.1683,malawi,2
+malaysia,0.6861,malaysia,4
+maldives,-0.94785,maldives,2
+malta,-0.65485,malta,2
+marshall islands,0.9842,marshall islands,1
+mauritania,0.572971454545,mauritania,97
+mauritius,0.8957,mauritius,1
+mexico,0.219775714286,mexico,39
+"micronesia, federated states of",0.212238410596,"micronesia, federated states of",102
+moldova,0.575864285714,moldova,9
+monaco,0.73172,monaco,5
+mongolia,0.80135,mongolia,4
+montserrat,0.643580769231,montserrat,18
+morocco,0.898517142857,morocco,9
+mozambique,0.34,mozambique,1
+myanmar,0.598133333333,myanmar,7
+namibia,0.963097014925,namibia,6
+nauru,0.53456,nauru,5
+nepal,0.87545,nepal,2
+netherlands,-0.590345454545,netherlands,7
+new caledonia,0.44375,new caledonia,2
+new zealand,0.7249,new zealand,4
+nicaragua,0.6069,nicaragua,15
+niger,0.1549,niger,4
+nigeria,0.770328571429,nigeria,9
+northern mariana islands,0.809831428571,northern mariana islands,18
+norway,0.46428,norway,12
+oman,0.3842,oman,3
+pakistan,0.258015948276,pakistan,75
+palau,0.731647142857,palau,13
+palestine,0.301759375,palestine,16
+panama,0.405488095238,panama,33
+papua new guinea,-0.0081,papua new guinea,2
+paraguay,0.49945,paraguay,2
+peru,0.73127,peru,9
+philippines,0.789205263158,philippines,17
+poland,-0.343296875,poland,18
+portugal,0.236316666667,portugal,8
+puerto rico,-0.00329375,puerto rico,15
+qatar,0.5772,qatar,15
+romania,0.632066666667,romania,8
+russia,0.450075,russia,52
+russian federation,0.0,russian federation,1
+rwanda,0.680342857143,rwanda,5
+réunion,0.00185,réunion,2
+saint barthélemy,0.9413,saint barthélemy,1
+"saint helena, ascension and tristan da cunha",-0.5868,"saint helena, ascension and tristan da cunha",1
+saint lucia,0.9995,saint lucia,1
+saint pierre and miquelon,0.752425,saint pierre and miquelon,4
+samoa,0.6249,samoa,1
+san marino,0.99815,san marino,2
+sao tome and principe,0.646223255814,sao tome and principe,37
+saudi arabia,0.67905,saudi arabia,2
+senegal,0.9974,senegal,1
+serbia,0.49745,serbia,2
+seychelles,0.0603857142857,seychelles,5
+sierra leone,0.801066666667,sierra leone,4
+singapore,0.900343589744,singapore,18
+slovakia,0.96785,slovakia,2
+slovenia,0.52389,slovenia,10
+somalia,0.1844625,somalia,8
+south korea,0.3818,south korea,1
+south sudan,-0.92848,south sudan,3
+spain,0.227522727273,spain,16
+sudan,0.0305523809524,sudan,15
+suriname,0.79335,suriname,7
+svalbard and jan mayen,0.9986,svalbard and jan mayen,1
+swaziland,0.999033333333,swaziland,2
+sweden,0.249176470588,sweden,16
+switzerland,0.574885714286,switzerland,6
+syria,0.240772,syria,18
+taiwan,0.630516666667,taiwan,5
+tajikistan,0.9924,tajikistan,1
+tanzania,0.84205,tanzania,3
+thailand,0.764626666667,thailand,12
+timor-leste,0.0,timor-leste,1
+trinidad and tobago,0.53015,trinidad and tobago,4
+tunisia,0.679432,tunisia,10
+turkey,0.439292592593,turkey,37
+turkmenistan,0.99375,turkmenistan,2
+tuvalu,0.515352380952,tuvalu,38
+uganda,0.124333333333,uganda,6
+ukraine,0.592736363636,ukraine,9
+united kingdom,0.851833333333,united kingdom,6
+united states,0.2278,united states,5
+uruguay,0.2632875,uruguay,8
+uzbekistan,0.99616,uzbekistan,3
+vanuatu,0.53565,vanuatu,2
+"virgin islands, u.s.",0.455163636364,"virgin islands, u.s.",10
+yemen,0.166171428571,yemen,15
+zambia,0.1253,zambia,3
+zimbabwe,0.9916,zimbabwe,1
+åland islands,-0.1146,åland islands,2
