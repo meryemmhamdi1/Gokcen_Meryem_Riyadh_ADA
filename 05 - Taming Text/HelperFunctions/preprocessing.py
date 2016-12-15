@@ -34,7 +34,7 @@ def bag_of_word_representation(emails):
     tokenizer = RegexpTokenizer(r'\w+')
     for email in emails['ExtractedBodyText']:
         # Tokenization and convert to lower case
-        emails_filtered = [t.lower() for t in tokenizer.tokenize(str(email))]
+        emails_filtered = [t.lower() for t in tokenizer.tokenize(email)]
         emails_bag_words.append(emails_filtered)
     return emails_bag_words
 
